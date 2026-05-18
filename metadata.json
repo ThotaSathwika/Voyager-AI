@@ -1,0 +1,6 @@
+{
+  "name": "Voyager AI",
+  "description": "Smart AI-powered trip planner that personalizes flight and hotel recommendations based on your unique travel style.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["AI Trip Planning", "Personalized Recommendations"]
+}
